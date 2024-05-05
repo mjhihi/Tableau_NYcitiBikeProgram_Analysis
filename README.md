@@ -1,5 +1,6 @@
 ## NewYork CitiBike Program Analysis
 
+Check out https://public.tableau.com/app/profile/nayoung.kim2003/vizzes for NCcitiBike Analysis Dashboards & Story
 
 #### Citi Bike Trip Histories
 
